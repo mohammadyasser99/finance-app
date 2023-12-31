@@ -1,3 +1,5 @@
+https://github.com/mohammadyasser99/finance-app/assets/131922865/c8f7176b-cfc8-4ffc-9ffe-ca601f01e02b
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems. You can clone the repo as follows:
